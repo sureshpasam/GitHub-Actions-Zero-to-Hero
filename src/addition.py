@@ -4,6 +4,7 @@
 
 ### Sameple test file
 ### Sample test execution 1
+### Ran this application for self hosted runner
 
 def add(a, b):
     return a + b
